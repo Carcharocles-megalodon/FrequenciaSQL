@@ -1,0 +1,4 @@
+C:\Users\Geral\source\repos\APAI\FrequenciaSQL\Frequencia SQL\SQL and Database\bin\Debug\netcoreapp3.1\SQL and Database.exe
+C:\Users\Geral\source\repos\APAI\FrequenciaSQL\Frequencia SQL\SQL and Database\obj\Debug\netcoreapp3.1\SQL and Database.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\APAI\FrequenciaSQL\Frequencia SQL\SQL and Database\obj\Debug\netcoreapp3.1\SQL and Database.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\APAI\FrequenciaSQL\Frequencia SQL\SQL and Database\obj\Debug\netcoreapp3.1\SQL and Database.AssemblyInfo.cs

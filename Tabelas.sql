@@ -17,3 +17,11 @@ CREATE TABLE Players(
 id_jog INTEGER PRIMARY KEY AUTOINCREMENT,
 name_jog VARCHAR(255) NOT NULL
 );
+
+INSERT INTO Players (name_jog) VALUES('player01');
+INSERT INTO PlayerItem (item_type) values('straight');
+
+INSERT INTO Items (name,quantidade, tipo,id_jog) VALUES ('Sword',2,1,1);
+
+SELECT * FROM Items WHERE id_jog = 1;
+
