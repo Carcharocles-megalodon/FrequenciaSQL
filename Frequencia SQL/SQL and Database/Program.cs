@@ -18,6 +18,7 @@ namespace SQL_and_Database
             {
                 SQLiteConnection.CreateFile(file);
             }
+            string query1 = "SELECT * FROM Items WHERE id_jog = 1;";
         }
 
         private static void RunSQLType(string[] queries)
